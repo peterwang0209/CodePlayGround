@@ -1,0 +1,22 @@
+[
+    {
+      "title": "LeetCode Color-Filling",
+      "description": "This is a simple web application allow user to simply click and change the color of a specific leetcode problem, there is a small overall map on the right handside. The idea of this app is to motivate user to keep completing and filling the color from all red to all green",
+      "techstacks": "React"
+    },
+    {
+      "title": "Stock History Performance",
+      "description": "This project target a single stock, analyze its history performance and give its average return in a specific day, specific week of a year, specific month of a year",
+      "techstacks": "React, Python"
+    },
+    {
+      "title": "Gym/Yoga Workout Reference",
+      "description": "This project design to simplify the process for gym beginner seeking for exercise on specific part of body. There should be a human 3D rotateable model in the middle of the screen. When user hover the mouse on the body part, it should sensor the part of the muscle group, if user click the target, there should be a panel slide in from right and display all possible exercise",
+      "techstacks": "React"
+    },
+    {
+      "title": "Tech Blog",
+      "description": "This is a simple tech blog where I document my tech journey",
+      "techstacks": "React"
+    }
+  ]
